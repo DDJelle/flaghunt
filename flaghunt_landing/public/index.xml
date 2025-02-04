@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flag Hunt on Dingesen</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Flag Hunt on Dingesen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Flag Hunt</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Flag Hunt is an exciting &lt;strong&gt;location-based multiplayer game&lt;/strong&gt; where strategy meets real-world movement. Inspired by classic &lt;strong&gt;Living Stratego&lt;/strong&gt;, it combines competitive gameplay with outdoor action.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Team-based strategy&lt;/strong&gt; – Work together to outsmart your opponents.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Location-based gameplay&lt;/strong&gt; – Play in your city, park, or neighborhood.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hilarious battles&lt;/strong&gt; – Choose between a Chainsaw, Baseball Bat, or Net Gun.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Developed by Erik Willems and Jelle Kamsma, our goal is to create a &lt;strong&gt;fun, active, and strategic&lt;/strong&gt; experience that brings players together.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Play Flag Hunt</title>
+      <link>http://localhost:1313/rules/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rules/</guid>
+      <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;&#xA;&lt;p&gt;Find and capture the opposing team’s flag before they capture yours.&lt;/p&gt;&#xA;&lt;h2 id=&#34;setting-up&#34;&gt;Setting Up&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hide your flag at a real-world location.&lt;/li&gt;&#xA;&lt;li&gt;Track the enemy’s flag using distance clues.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;weapons&#34;&gt;Weapons&lt;/h2&gt;&#xA;&lt;p&gt;Choose from:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Baseball Bat&lt;/strong&gt; (Beats Net Gun)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Net Gun&lt;/strong&gt; (Beats Chainsaw)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Chainsaw&lt;/strong&gt; (Beats Baseball Bat)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;battles&#34;&gt;Battles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;When close to an opponent, a battle starts.&lt;/li&gt;&#xA;&lt;li&gt;The winner continues, the loser respawns at their base.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;winning&#34;&gt;Winning&lt;/h2&gt;&#xA;&lt;p&gt;Find the enemy flag and capture it to win!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
